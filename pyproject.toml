@@ -1,0 +1,8 @@
+[tool.poetry]
+name = "global_data_center"
+version = "2.2.1"
+
+[tool.poetry.dependencies]
+python = ">=3.11,<4.0"
+pandas = "^2.3.3"
+numpy = "^2.3.5"
